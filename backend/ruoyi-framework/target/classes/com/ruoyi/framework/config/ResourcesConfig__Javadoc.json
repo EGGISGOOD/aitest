@@ -1,0 +1,1 @@
+{"doc":"\n 通用配置\r\n\r\n @author Lion Li\r\n","fields":[],"enumConstants":[],"methods":[{"name":"corsFilter","paramTypes":[],"doc":"\n 跨域配置\r\n"}],"constructors":[]}

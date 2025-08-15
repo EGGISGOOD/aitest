@@ -1,0 +1,1 @@
+{"doc":"\n 异步配置\r\n\r\n @author Lion Li\r\n","fields":[],"enumConstants":[],"methods":[{"name":"getAsyncExecutor","paramTypes":[],"doc":"\n 自定义 @Async 注解使用系统线程池\r\n"},{"name":"getAsyncUncaughtExceptionHandler","paramTypes":[],"doc":"\n 异步执行异常处理\r\n"}],"constructors":[]}

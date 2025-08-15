@@ -1,0 +1,1 @@
+{"doc":"\n 通用 部门服务\r\n\r\n @author Lion Li\r\n","fields":[],"enumConstants":[],"methods":[{"name":"selectDeptNameByIds","paramTypes":["java.lang.String"],"doc":"\n 通过部门ID查询部门名称\r\n\r\n @param deptIds 部门ID串逗号分隔\r\n @return 部门名称串逗号分隔\r\n"}],"constructors":[]}

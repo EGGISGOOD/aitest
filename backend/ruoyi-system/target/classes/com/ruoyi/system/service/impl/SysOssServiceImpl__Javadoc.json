@@ -1,0 +1,1 @@
+{"doc":"\n 文件上传 服务层实现\r\n\r\n @author Lion Li\r\n","fields":[],"enumConstants":[],"methods":[{"name":"matchingUrl","paramTypes":["com.ruoyi.system.domain.vo.SysOssVo"],"doc":"\n 匹配Url\r\n\r\n @param oss OSS对象\r\n @return oss 匹配Url的OSS对象\r\n"}],"constructors":[]}

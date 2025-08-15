@@ -1,0 +1,1 @@
+{"doc":"\n 首页\r\n\r\n @author Lion Li\r\n","fields":[{"name":"ruoyiConfig","doc":"\n 系统基础配置\r\n"}],"enumConstants":[],"methods":[{"name":"index","paramTypes":[],"doc":"\n 访问首页，提示语\r\n"}],"constructors":[]}

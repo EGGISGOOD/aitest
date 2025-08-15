@@ -1,0 +1,1 @@
+{"doc":"\n 用户登录对象\r\n\r\n @author Lion Li\r\n","fields":[{"name":"username","doc":"\n 用户名\r\n"},{"name":"password","doc":"\n 用户密码\r\n"},{"name":"code","doc":"\n 验证码\r\n"},{"name":"uuid","doc":"\n 唯一标识\r\n"}],"enumConstants":[],"methods":[],"constructors":[]}

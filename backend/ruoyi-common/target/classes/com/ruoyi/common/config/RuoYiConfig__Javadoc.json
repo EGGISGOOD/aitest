@@ -1,0 +1,1 @@
+{"doc":"\n 读取项目相关配置\r\n\r\n @author Lion Li\r\n","fields":[{"name":"name","doc":"\n 项目名称\r\n"},{"name":"version","doc":"\n 版本\r\n"},{"name":"copyrightYear","doc":"\n 版权年份\r\n"},{"name":"cacheLazy","doc":"\n 缓存懒加载\r\n"}],"enumConstants":[],"methods":[],"constructors":[]}
